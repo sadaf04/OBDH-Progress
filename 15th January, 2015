@@ -1,0 +1,32 @@
+TASKS COMPLETED:
+
+a)CoreOBDH pdf:
+
+1.General hardware design: microcontrollers along with the peripherals, debugging interfaces, drivers and watchdog timers.
+2.Architecture: types- star, distributed and hybrid and their advantages-disadvantages.
+3.General features of microcontrollers: data and non-volatile program memory, peripheral features and power consumption.
+4.Factors that influence the selection of most appropriate processor.
+5.Memory: SRAM, EEPROM and flash memory.
+6.Radiation effects: soft and hard errors.
+7.OBDH hardware which is designed around a central 1-wire data bus.
+8.Modes of communication- serial and parallel and their pros and cons.
+9.Features of CAN bus, I2C bus, SPI bus and UART.
+10.Differences between general and real time operating systems and benefits of using RTOS.
+11.Types of RTOS: hard real-time, firm real-time and soft real-time. Comparison between various RTOSes.
+12.High level languages (C and C++) are preferred over assembly language and would be used for software development.
+13.Due to low onboard memory of satellite, to store large amounts of data, data compression techniques are used.
+14.Error handling techniques.
+
+b)Swisscube pdf:
+
+1.Design drivers for the CDMS.
+2.Swisscube Bus Topology.
+3.CDMS Specifications.
+4.Hardware Development.
+5.Preliminary Budget.
+6.Hardware Architecture and Schematics.
+7.Analysis, software development and types of tests.
+
+c)Study of Delfi Paper.
+
+d)Learning C programming: studied upto arrays,pointers and structures.
