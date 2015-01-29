@@ -1,0 +1,10 @@
+TASKS COMPLETED : Study of CODR-OBDH
+
+Topics Studied:
+1. Hardware components: General hardware design and types of architecture.
+2. Parameters for component selection.
+3. Radiation effects- bit flips and latch up errors.
+4. Constituents of a processor and its architecture- Von-Neumann and Harvard, classification of processors- CISC,RISC and DSP.
+5. Classification and choice of memory,type of data to be stored, memory management and interfacing.
+6. Serial and parallel modes of communication, basic knowledge of I2C,SPI and UART.
+7. Features of a microcontroller and software components.
