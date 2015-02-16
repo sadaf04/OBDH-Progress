@@ -1,0 +1,14 @@
+CoDR-Topics in brief :
+
+1. Hardware components: Design and architecture.
+2. Parameters for component selection and radiation effects.
+3. Bus topology and general processor architecture.
+4. Memory : Types, management and interfacing.
+5. Features of a microcontroller and software components.
+
+
+Outcome :
+1. Gained insight into parameters of components and memory selection, operation 
+  range of satellite, power consumed by OBDH, architecture, bus topology and 
+  importance of watchdog timer.
+2. Better understanding of arrays and pointers.
